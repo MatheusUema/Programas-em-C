@@ -1,0 +1,27 @@
+f1)Entrada principal:
+Estou perdido!
+	{
+		1.a)Chat Bot : Em qual dessas áreas você está?
+			{
+				1.b)Apresentar 5 áreas do campus: Saída da física, Saída da arq, Saída da prod, saída da matemática e CAASO
+				Entrada:{
+						Saída da física
+						Saída da arq
+						Saída da prod
+						Saída da mat
+						CAASO
+						{
+							1.c)Chatbot : Para onde você quer ir?
+							Entrada: O que for digitado
+							{ 
+								1.d)Reconhecer o local digitado
+									1.e)Se reconhecido ------- > Calcular o caminho tomado de onde ele está para onde ele quer ir.
+										{
+										 Chatbot: Esse é o caminho que você deve tomar! =)
+										 Mostrar o caminho a ser tomado.
+										}
+									1.f)Se não reconhecido --- > Por favor digite novamente!
+										Voltar para 1.c
+
+Saída principal:
+Caminho a ser tomado.

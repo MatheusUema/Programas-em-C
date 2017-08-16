@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1502505575 source:c:\users\usuario\desktop\programas em #c\recursao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
+1502505575 source:c:\users\usuario\desktop\programas em #c\recursao- ex 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1498873522 source:c:\users\usuario\desktop\algoritmo evolutiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1499313942 source:c:\users\usuario\desktop\programas em #c\algoritmo evolutiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
